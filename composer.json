@@ -1,5 +1,5 @@
 {
-    "name": "huijiewei/yii2-bootboxjs",
+    "name": "websightnl/yii2-bootboxjs",
     "description": "BootboxJs assets For Yii 2",
     "keywords": ["yii2", "bootbox"],
     "license": "GPLv3",
@@ -8,6 +8,10 @@
         {
             "name": "Huijie Wei",
             "email": "huijiewei@outlook.com"
+        },
+        {
+            "name": "Eric Bus",
+            "email": "eric.bus@websight.nl"
         }
     ],
     "require": {
